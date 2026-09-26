@@ -22,6 +22,14 @@ description: Produce one source-backed Hengjian recommendation report for a US o
 4. **反照。** 用最强反面论据挑战自己的核心判断，分别写出多头和空头观点如何被证伪。[投资方法视角](references/investor-lenses.md)只用于提出相关问题；[衡鉴原则](references/hengjian-principles.md)提醒何时知止，不替代事实。
 5. **形成建议。** 按[建议形成规则](references/recommendation-policy.md)得出唯一结论；按[报告契约](references/output-contract.md)写成一份建议单，再用[出稿核验](references/report-qa.md)检查来源、计算、反证与建议是否一致。
 
+## 当前请求的路由优先级
+
+- **可疑荐股、内幕、保证收益或截图：** 先读[证据审查](references/evidence-review.md)辨别论断和动机，再决定哪些事实值得进入普通投研流程。
+- **ADR、双重上市、不同币种：** 先用[数据与市场规则](references/data-and-market.md)定发行人、存托比例、股类与汇率，身份未定前不运行每股估值。
+- **银行、保险、REIT、开发阶段生物科技或持续亏损企业：** 先读[行业判断](references/sector-lenses.md)，不要让默认 DCF 抢先决定方法。
+- **财报刚发布或用户要求更新旧报告：** 先对齐新旧披露的期间与口径，再判断经营论点处于「仍成立／被削弱／已失效／证据不足」哪一状态；保留原判断的时点，不用新资料改写过去。
+- **只有普通个股代码：** 按五步顺序完成最短可用研究。完成度由证据决定，报告可以简洁，但行动建议、最强反证和复核条件不可缺。
+
 ## 不可破坏的边界
 
 - 最终只给**一份**建议单：开头是行动建议、适用前提和三项最关键理由；正文给生意与财务、估值、反面证据、改变建议的条件。内部搜索、计算和核验不单独发给用户。
