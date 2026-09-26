@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">衡鉴｜港美股投研</title>
+  <desc id="desc">深色底的衡鉴封面，左侧平衡圆形标识，右侧中文名称与英文理念</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d29"/>
+      <stop offset="1" stop-color="#0b141d"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#dcc99f"/>
+      <stop offset="1" stop-color="#8ba8a5"/>
+    </linearGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M 64 0 L 0 0 0 64" fill="none" stroke="#c3c7bc" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" fill="url(#background)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <path d="M0 319.5H1200" stroke="#c9b388" stroke-opacity=".55"/>
+  <g transform="translate(159 160)" fill="none" stroke-linecap="round">
+    <circle r="79" stroke="url(#ring)" stroke-width="1.5"/>
+    <circle r="57" stroke="#c9b388" stroke-opacity=".28"/>
+    <path d="M-54 0H54M0-54V54" stroke="#d8c59b" stroke-opacity=".62" stroke-width="1.5"/>
+    <path d="M-54 0C-35-26-17-26 0 0C17 26 35 26 54 0" stroke="#84b8b0" stroke-width="3"/>
+    <circle cx="-54" cy="0" r="4" fill="#d8c59b" stroke="none"/>
+    <circle cx="54" cy="0" r="4" fill="#84b8b0" stroke="none"/>
+    <circle cx="0" cy="0" r="5" fill="#f0e8d8" stroke="none"/>
+  </g>
+  <path d="M290 78V242" stroke="#c9b388" stroke-opacity=".33"/>
+  <text x="331" y="105" fill="#9fbcba" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="15" letter-spacing="3.5">HENGJIAN  /  EQUITY RESEARCH</text>
+  <text x="327" y="188" fill="#f3efe7" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="66" font-weight="600" letter-spacing="5">衡鉴</text>
+  <text x="334" y="232" fill="#c9b388" font-family="'Noto Sans CJK SC','PingFang SC','Microsoft YaHei',sans-serif" font-size="22" letter-spacing="2">港美股投研 · 一份有根据的建议单</text>
+</svg>
