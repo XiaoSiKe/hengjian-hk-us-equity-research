@@ -1,4 +1,4 @@
-# ⚖️ 衡鉴｜港美股投研
+<h1 align="center">⚖️ 衡鉴｜港美股投研</h1>
 
 ### 把股票建议写成能复核、能反驳、也能更新的一份报告。
 ### Hengjian · Hong Kong & U.S. Equity Research
